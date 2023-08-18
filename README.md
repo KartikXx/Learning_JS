@@ -1,2 +1,2 @@
 # Learning_JS
-A code repo for all my JS codes , I write while learning:)
+This repository serves as a record of my journey to learn JavaScript. It contains various code examples, small projects, and exercises that I've completed while studying JavaScript concepts and techniques.
